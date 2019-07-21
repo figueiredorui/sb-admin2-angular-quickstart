@@ -1,6 +1,6 @@
 # Sb Admin 2 - Angular 8 - Quickstart
 
-This project is a ready made **SB Admin 2** theme for Angular 8.
+This project is a ready made [SB Admin 2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2) theme for Angular 8.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
 
